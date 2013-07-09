@@ -1,0 +1,4 @@
+libpinyin
+=========
+
+learn pinyin inputmethod
